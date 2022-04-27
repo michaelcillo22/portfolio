@@ -28,7 +28,7 @@ a.icon:link, a.icon:visited {
     display: inline-block;
 }
   
-a#icon:hover, a#icon:active {
+a.icon:hover, a.icon:active {
     background-color: rgb(77, 117, 77);
     color: white;
 }
